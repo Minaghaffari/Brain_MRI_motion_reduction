@@ -40,7 +40,7 @@ config["n_fold_crossValidation"] = 1
 config["crossValidation_lot"] = 0
 config["training_files"] = "training_dirs.txt"
 config["test_files"] = "test_dirs.txt"
-config["model_file"] = os.path.abspath("3Dunet")
+config["model_file"] = os.path.abspath("3Dunet.h5")
 
 
 
